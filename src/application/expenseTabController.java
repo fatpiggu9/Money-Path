@@ -45,12 +45,14 @@ public class expenseTabController {
 		BufferedReader reader = new BufferedReader(new FileReader(myFile));
 		PrintWriter writer = new PrintWriter(new FileWriter(myObj));
 		String temp;
+		int edited = 0;
 		while ((temp = reader.readLine()) != null) {
 	        if (temp.equals(target)) {
 	            writer.println(target);
 	            while ((temp = reader.readLine()) != null) {
-	    	        if (temp.equals(Integer.toString(currentBalance))) {
+	    	        if (temp.equals(Integer.toString(currentBalance)) && edited == 0) {
 	    	            writer.println(finalBalance);
+				edited = 1;
 	    	        } else {
 	    	            writer.println(temp);
 	    	        }
