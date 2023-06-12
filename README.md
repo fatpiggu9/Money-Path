@@ -44,5 +44,27 @@ Several same features from basic wallet, additionally, ssers are to input from 5
 # View Wallet
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/33f246d7-3e00-4373-b7e1-921fbfaf3292)
 
-Users can view created wallet in the View Wallet page. Using the choice box near the top of the page, users can view the name of previously created wallet sorted by the wallet's creation date with Basic Wallets taking priority and displayed over Goal Wallets.
+Users can view created wallet in the View Wallet page. Using the choice box near the top of the page, users can view the name of previously created wallet sorted by the wallet's creation date with Basic Wallets taking priority and displayed over Goal Wallets. Within the case where there are no wallet available or was never previously created, the choicebox would be disabled and greyed out, and the "Choose a wallet" label in the middle of the page would be changed into a "no wallet available" label.
+
+After choosing a wallet, the following information would be shown:
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/83479771-ab70-4be1-bc00-7b791f62eda6)
+
+- Wallet Name : The name of the wallet when it was created.
+- Wallet Type : The type of the wallet (basic or goal).
+- Currency Type : The currency type assigned to the wallet.
+- Balance : The total balance in the wallet.
+
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/e40e060c-1e01-4daf-a622-a5fd01480903)
+
+- Target Balance : The target balance assigned to the wallet. (Only for goal wallet)
+- End Date : The end date assigned to the wallet. (Only for goal wallet)
+
+In addition to the extra information, Goal Wallets have extra feature, which are an "Add Income", "Add Expense", and "View Transaction" buttons.
+
+"Add Income" button will open a popup window. In this window, the user is prompt to input amount of income that will be added into the wallet and increase it's balance.
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/67cc40a4-8abe-403e-8bb7-41149459d827)
+
+Similarly, "Add Expense" button will open a window that asks the user to input the amount of expense that will be subtracted from the wallet's balance. It will also asks the user to give the expense a name which will help with the transaction later.
+
+
 
