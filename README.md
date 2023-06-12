@@ -57,7 +57,7 @@ After choosing a wallet, the following information would be shown:
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/e40e060c-1e01-4daf-a622-a5fd01480903)
 
 - Target Balance : The target balance assigned to the wallet. (Only for goal wallet)
-- End Date : The end date assigned to the wallet. (Only for goal wallet)
+- End Date : The end date assigned to the wallet. Formated to [yyyy MM dd] (Only for goal wallet)
 
 In addition to the extra information, Goal Wallets have extra feature, which are an "Add Income", "Add Expense", and "View Transaction" buttons.
 
@@ -65,6 +65,13 @@ In addition to the extra information, Goal Wallets have extra feature, which are
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/67cc40a4-8abe-403e-8bb7-41149459d827)
 
 Similarly, "Add Expense" button will open a window that asks the user to input the amount of expense that will be subtracted from the wallet's balance. It will also asks the user to give the expense a name which will help with the transaction later.
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/62d7b8c9-2b28-497e-a99f-cb68f0a50927)
 
+"View Transaction" button will open the "View Transaction" page. In this page there will initially be a choice box. The choice box holds all expenses made for that specific wallet displayed by the expense name set at the expense page. If there are no expense made for that wallet, the choice box would display nothing.
+Clicking on the choice box would display the following:
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/3cca31da-8573-4576-ac08-37ed0402732e)
 
+- Transaction Name : The name of the expense made.
+- Transaction Time : The time when the expense was made. Formated to [dd MM yyyy hh mm ss]
+- Transaction Amount : The amount of expense made.
 
