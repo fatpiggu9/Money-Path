@@ -24,4 +24,9 @@ Users are to input from 3 input fields, namely Wallet Label, Currency, and Balan
 
 - Balance field contains previously selected currency type in short (Ex. "USD") and input of balance amount.
 
+##
+
+# Goal Wallet
+![image](https://github.com/fatpiggu9/Money-Path/assets/127531908/33f888cb-a2bc-4e64-8ab3-a3b050cc23f9)
+
 
