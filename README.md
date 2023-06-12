@@ -29,4 +29,14 @@ Users are to input from 3 input fields, namely Wallet Label, Currency, and Balan
 # Goal Wallet
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127531908/33f888cb-a2bc-4e64-8ab3-a3b050cc23f9)
 
+Several same features from basic wallet, additionally, ssers are to input from 5 input fields, namely Wallet Label, Currency, Balance, and Target Goal
+
+- Wallet Label indicating the wallet name and to be saved as the corresponding wallet's identity.
+
+- Currency choices are either Rupiah (IDR), Ringgit (RM), Chinese Yuan (RMB), and United States Dollar (USD).
+
+- Balance field contains previously selected currency type in short (Ex. "USD") and input of balance amount.
+- 
+-  Target Goal includes 2 input fields, which are target amount based on selected currency type, and end date.
+
 
