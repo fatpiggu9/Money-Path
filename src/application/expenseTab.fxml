@@ -17,11 +17,11 @@
             <Font name="Tw Cen MT Condensed Extra Bold" size="29.0" />
          </font>
       </Label>
-      <TextField fx:id="expenseAmount" layoutX="107.0" layoutY="112.0" prefHeight="26.0" prefWidth="204.0" promptText="Income Amount" stylesheets="@../../stylesheet.css">
+      <TextField fx:id="expenseAmount" layoutX="107.0" layoutY="112.0" prefHeight="26.0" prefWidth="204.0" promptText="Expense Amount" stylesheets="@../../stylesheet.css">
          <font>
             <Font name="Tw Cen MT Condensed Extra Bold" size="14.0" />
          </font></TextField>
-      <TextField fx:id="expenseName" layoutX="107.0" layoutY="76.0" prefHeight="26.0" prefWidth="338.0" promptText="Income Name" stylesheets="@../../stylesheet.css">
+      <TextField fx:id="expenseName" layoutX="107.0" layoutY="76.0" prefHeight="26.0" prefWidth="338.0" promptText="Expense Name" stylesheets="@../../stylesheet.css">
          <font>
             <Font name="Tw Cen MT Condensed Extra Bold" size="14.0" />
          </font></TextField>
