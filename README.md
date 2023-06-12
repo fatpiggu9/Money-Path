@@ -1,6 +1,6 @@
 # Money Path (Object Oriented Programming Final Project)
 # About Us
-Money Path is an application to manage and automate budget and expenses for users. Money Path consists of 2 different wallet types user can input, such as Basic Wallet and Goal Wallet. 
+Money Path is a financial tracker application to manage and automate budget and expenses for users. Money Path consists of 2 different wallet types users can input, such as Basic Wallet and Goal Wallet. 
 
 ##
 
