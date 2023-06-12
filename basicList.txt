@@ -1,0 +1,25 @@
+Wallet 1
+basic
+Rupiah (IDR)
+10000
+
+Wallet 2
+basic
+United States Dollar (USD)
+300
+
+Wallet 3
+basic
+Ringgit (RM)
+202020
+
+basic1
+basic
+Rupiah (IDR)
+700000
+
+basic3
+basic
+Ringgit (RM)
+123455
+

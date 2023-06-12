@@ -1,0 +1,28 @@
+goal1
+Goal
+Rupiah (IDR)
+50000
+400000
+2023-06-08
+
+goal2
+Goal
+Ringgit (RM)
+9800
+9800
+2023-06-09
+
+goal3
+Goal
+Rupiah (IDR)
+50000
+700000
+2023-06-14
+
+goal4
+Goal
+Chinese Yuan (RMB)
+500
+1000
+2023-06-14
+
