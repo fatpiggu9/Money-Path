@@ -63,6 +63,7 @@ In addition to the extra information, Goal Wallets have extra feature, which are
 
 "Add Income" button will open a popup window. In this window, the user is prompt to input amount of income that will be added into the wallet and increase it's balance.
 
+
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/67cc40a4-8abe-403e-8bb7-41149459d827)
 
 Similarly, "Add Expense" button will open a window that asks the user to input the amount of expense that will be subtracted from the wallet's balance. It will also asks the user to give the expense a name which will help with the transaction later.
