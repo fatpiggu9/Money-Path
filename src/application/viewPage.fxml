@@ -60,15 +60,15 @@
             <Font name="Tw Cen MT Condensed Extra Bold" size="20.0" />
          </font>
       </Label>
-      <Label fx:id="noWallet1" layoutX="289.0" layoutY="200.0" text="No Wallet Available" visible="false">
-         <font>
-            <Font name="Tw Cen MT Condensed Extra Bold" size="14.0" />
-         </font></Label>
-      <Label fx:id="noWallet2" layoutX="269.0" layoutY="200.0" text="Please Create a Wallet First" visible="false">
+      <Label fx:id="noWallet1" layoutX="279.0" layoutY="182.0" text="No Wallet Available" visible="false">
          <font>
             <Font name="Tw Cen MT Condensed Extra Bold" size="16.0" />
          </font></Label>
-      <Label fx:id="selectWallet" layoutX="284.0" layoutY="200.0" text="Please Select a Wallet">
+      <Label fx:id="noWallet2" layoutX="257.0" layoutY="216.0" text="Please Create a Wallet First" visible="false">
+         <font>
+            <Font name="Tw Cen MT Condensed Extra Bold" size="16.0" />
+         </font></Label>
+      <Label fx:id="selectWallet" layoutX="274.0" layoutY="197.0" text="Please Select a Wallet">
          <font>
             <Font name="Tw Cen MT Condensed Extra Bold" size="16.0" />
          </font></Label>
