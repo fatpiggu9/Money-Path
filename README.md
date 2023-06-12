@@ -39,4 +39,10 @@ Several same features from basic wallet, additionally, ssers are to input from 5
 
 -  Target Goal includes 2 input fields, which are target amount based on selected currency type, and end date.
 
+##
+
+# View Wallet
+![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/33f246d7-3e00-4373-b7e1-921fbfaf3292)
+
+Users can view created wallet in the View Wallet page. Using the choice box near the top of the page, users can view the name of previously created wallet sorted by the wallet's creation date with Basic Wallets taking priority and displayed over Goal Wallets.
 
