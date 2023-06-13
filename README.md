@@ -20,7 +20,7 @@ Features available for Money Path:
 Users are to input from 3 input fields, namely Wallet Label, Currency, and Balance. 
 - Wallet Label indicating the wallet name and to be saved as the corresponding wallet's identity.
 
-- Currency choices are either Rupiah (IDR), Ringgit (RM), Chinese Yuan (RMB), and United States Dollar (USD).
+- Currency choices are either Rupiah (IDR), Ringgit (RM), Chinese Yuan (RMB), or United States Dollar (USD).
 
 - Balance field contains previously selected currency type in short (Ex. "USD") and input of balance amount.
 
