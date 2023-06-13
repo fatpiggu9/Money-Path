@@ -1,7 +1,5 @@
 # Money Path (Object Oriented Programming Final Project)
 
-##
-
 ## Manual Guide
 Money Path is a JavaFX application that provides a quick and simple wallet and budget manager. It is designed to run on the JavaFX environment and provides intuitive graphical user interface (GUI) for any interactions with application's features
 
@@ -89,16 +87,18 @@ After choosing a wallet, the following information would be shown:
 
 In addition to the extra information, Goal Wallets have extra feature, which are an "Add Income", "Add Expense", and "View Transaction" buttons.
 
-"Add Income" button will open a popup window. In this window, the user is prompt to input amount of income that will be added into the wallet and increase it's balance.
+**"Add Income"** button will open a popup window. In this window, the user is prompt to input amount of income that will be added into the wallet and increase it's balance.
 
 
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/67cc40a4-8abe-403e-8bb7-41149459d827)
 
-Similarly, "Add Expense" button will open a window that asks the user to input the amount of expense that will be subtracted from the wallet's balance. It will also asks the user to give the expense a name which will help with the transaction later.
+Similarly, **"Add Expense"** button will open a window that asks the user to input the amount of expense that will be subtracted from the wallet's balance. It will also asks the user to give the expense a name which will help with the transaction later.
+
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/62d7b8c9-2b28-497e-a99f-cb68f0a50927)
 
-"View Transaction" button will open the "View Transaction" page. In this page there will initially be a choice box. The choice box holds all expenses made for that specific wallet displayed by the expense name set at the expense page. If there are no expense made for that wallet, the choice box would display nothing.
+**"View Transaction"** button will open the "View Transaction" page. In this page there will initially be a choice box. The choice box holds all expenses made for that specific wallet displayed by the expense name set at the expense page. If there are no expense made for that wallet, the choice box would display nothing.
 Clicking on the choice box would display the following:
+
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/3cca31da-8573-4576-ac08-37ed0402732e)
 
 - Transaction Name : The name of the expense made.
