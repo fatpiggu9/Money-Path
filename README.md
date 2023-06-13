@@ -1,4 +1,5 @@
-# Money Path (Object Oriented Programming Final Project)
+# Money Path 
+as Object Oriented Programming Final Project
 
 ## Manual Guide
 Money Path is a JavaFX application that provides a quick and simple wallet and budget manager. It is designed to run on the JavaFX environment and provides intuitive graphical user interface (GUI) for any interactions with application's features
@@ -13,7 +14,7 @@ Make sure to have the following installed on your device:
 ### **<ins>Installation</ins>**
 - Clone the repository from GitHub by the following command:
 
-  >"git clone https://github.com/fatpiggu9/Money-Path"
+  >```"git clone https://github.com/fatpiggu9/Money-Path"```
 - Download and Import file on your preferred Java IDE
 - Configure the project to use the appropriate JDK and JavaFX SDK
 - Build the project to resolve any dependencies
