@@ -1,10 +1,38 @@
 # Money Path (Object Oriented Programming Final Project)
-# About Us
+
+##
+
+## Manual Guide
+Money Path is a JavaFX application that provides a quick and simple wallet and budget manager. It is designed to run on the JavaFX environment and provides intuitive graphical user interface (GUI) for any interactions with application's features
+
+
+### **<ins>Prerequisites</ins>**
+
+Make sure to have the following installed on your device:
+- Java Development Kit (JDK) Version 17.0.6 or above
+- JavaFX SDK 20.0.1
+
+### **<ins>Installation</ins>**
+- Clone the repository from GitHub by the following command:
+
+  >"git clone https://github.com/fatpiggu9/Money-Path"
+- Download and Import file on your preferred Java IDE
+- Configure the project to use the appropriate JDK and JavaFX SDK
+- Build the project to resolve any dependencies
+
+### **<ins>Usage</ins>**
+- Launch the application by running the main class: 'Main.java'
+- The application GUI should appear, displaying main page of the application
+- Navigate through features on the application
+
+## About Us
 Money Path, a financial tracker application designed to track your money flow anytime, everywhere. Set your goal of finance, manage it, and exceed your limit with Money Path. Consists of 2 different wallet types users can input, such as Basic Wallet and Goal Wallet. 
 
 ##
 
-# Menu Page
+## Application Snippet
+
+### **<ins>Menu Page</ins>**
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127531908/8eb6a9fa-99c7-43bc-8a25-76010486979b)
 
 Features available for Money Path:
@@ -14,7 +42,7 @@ Features available for Money Path:
 
 ##
 
-# Basic Wallet
+### **<ins>Basic Wallet</ins>**
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127531908/13dbce1c-5bd4-4c69-bf10-27b6652270f7)
 
 Users are to input from 3 input fields, namely Wallet Label, Currency, and Balance. 
@@ -26,7 +54,7 @@ Users are to input from 3 input fields, namely Wallet Label, Currency, and Balan
 
 ##
 
-# Goal Wallet
+### **<ins>Goal Wallet</ins>**
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127531908/33f888cb-a2bc-4e64-8ab3-a3b050cc23f9)
 
 Several same features from basic wallet, additionally, ssers are to input from 5 input fields, namely Wallet Label, Currency, Balance, and Target Goal
@@ -41,7 +69,7 @@ Several same features from basic wallet, additionally, ssers are to input from 5
 
 ##
 
-# View Wallet
+### **<ins>View Wallet</ins>**
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/33f246d7-3e00-4373-b7e1-921fbfaf3292)
 
 Users can view created wallet in the View Wallet page. Using the choice box near the top of the page, users can view the name of previously created wallet sorted by the wallet's creation date with Basic Wallets taking priority and displayed over Goal Wallets. Within the case where there are no wallet available or was never previously created, the choicebox would be disabled and greyed out, and the "Choose a wallet" label in the middle of the page would be changed into a "no wallet available" label.
