@@ -84,7 +84,7 @@ After choosing a wallet, the following information would be shown:
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/e40e060c-1e01-4daf-a622-a5fd01480903)
 
 - Target Balance : The target balance assigned to the wallet. (Only for goal wallet)
-- End Date : The end date assigned to the wallet. Formated to [yyyy MM dd] (Only for goal wallet)
+- End Date : The end date assigned to the wallet. Formated to [yyyy-mm-dd] (Only for goal wallet)
 
 In addition to the extra information, Goal Wallets have extra feature, which are an "Add Income", "Add Expense", and "View Transaction" buttons.
 
