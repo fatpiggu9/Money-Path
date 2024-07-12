@@ -103,6 +103,6 @@ Clicking on the choice box would display the following:
 ![image](https://github.com/fatpiggu9/Money-Path/assets/127538786/3cca31da-8573-4576-ac08-37ed0402732e)
 
 - Transaction Name : The name of the expense made.
-- Transaction Time : The time when the expense was made. Formated to [dd MM yyyy hh mm ss]
+- Transaction Time : The time when the expense was made. Formated to [dd-mm-yyyy hh:mm:ss]
 - Transaction Amount : The amount of expense made.
 
